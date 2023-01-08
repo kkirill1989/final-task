@@ -1,0 +1,15 @@
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\bin\Debug\net6.0\task 4.exe
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\bin\Debug\net6.0\task 4.deps.json
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\bin\Debug\net6.0\task 4.runtimeconfig.json
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\bin\Debug\net6.0\task 4.dll
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\bin\Debug\net6.0\task 4.pdb
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\task 4.csproj.AssemblyReference.cache
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\task 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\task 4.AssemblyInfoInputs.cache
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\task 4.AssemblyInfo.cs
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\task 4.csproj.CoreCompileInputs.cache
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\task 4.dll
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\refint\task 4.dll
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\task 4.pdb
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\task 4.genruntimeconfig.cache
+D:\КИРИЛЛ\Языки программирования\Языки программирования (дз)\final task\task 4\obj\Debug\net6.0\ref\task 4.dll
